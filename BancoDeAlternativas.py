@@ -1,4 +1,5 @@
 import random
+"""ASD"""
 def banco_de_alternativas():#função sem parâmetro de entrada que retorna uma matriz
 
     #alternativas referentes a p00-p04 perguntas fáceis
